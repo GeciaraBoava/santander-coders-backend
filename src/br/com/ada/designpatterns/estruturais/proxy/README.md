@@ -1,0 +1,2 @@
+# PROXY
+Os patterns estruturais tratam de como os objetos se relacionam entre si. O Proxy é visto como um "meio de campo" que recebe a requisição, aplica as regras de negócio e repassa a quem de direito. Uma de suass aplicações é implementar os logs, como vimos nessa aula.  
